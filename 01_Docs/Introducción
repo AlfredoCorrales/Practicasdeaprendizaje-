@@ -1,1 +1,47 @@
-el proyecto trata de centralizar talleres tecnicos con clientes necesitados a una reparacion tecnilogica 
+<!-- INTRODUCCIÓN DEL PROYECTO -->
+
+<section class="introduccion">
+
+    <h1>Bienvenido a TecnoShop</h1>
+
+    <h2>¿Qué es TecnoShop?</h2>
+
+    <p>
+        TecnoShop es una tienda virtual dedicada a la venta de productos
+        tecnológicos. En esta plataforma los usuarios pueden consultar
+        diferentes productos y conocer información sobre ellos.
+    </p>
+
+    <h2>¿Qué ofrece el proyecto?</h2>
+
+    <p>
+        El proyecto busca facilitar la consulta de productos tecnológicos
+        mediante una página web sencilla, organizada y fácil de utilizar.
+    </p>
+
+    <h2>Objetivo</h2>
+
+    <p>
+        El objetivo principal es desarrollar una plataforma web que permita
+        mostrar productos tecnológicos de manera clara y accesible.
+    </p>
+
+</section>
+
+Y si lo quieres como boceto antes de escribir el código real, sería simplemente:
+
+INTRODUCCIÓN
+│
+├── Nombre del proyecto
+│   └── TecnoShop
+│
+├── ¿Qué es?
+│   └── Descripción breve del proyecto
+│
+├── ¿Qué ofrece?
+│   └── Principales funciones
+│
+└── Objetivo
+    └── Qué se quiere lograr
+
+Así puedes ir llenando primero la información y después convertir cada parte en HTML.
