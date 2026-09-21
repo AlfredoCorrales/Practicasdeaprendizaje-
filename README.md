@@ -14,4 +14,5 @@ Este proyecto será utilizado para practicar:
 - git pull
 - Modificación de archivos
 
-- Proyecto para aprender Git y GitHud  
+- Proyecto para aprender Git y GitHud
+- Tener mayores conocimientos
