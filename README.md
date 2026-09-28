@@ -17,4 +17,8 @@ Este proyecto será utilizado para practicar:
 - Proyecto para aprender Git y GitHud
 - Tener mayores conocimientos
 - Sistema de tienda virtual de productos tecnológicos
+<<<<<<< HEAD
 - tienda virtual 
+=======
+- rr
+>>>>>>> 0b36f79e757a1d62fea7c87d765ded485d996323
