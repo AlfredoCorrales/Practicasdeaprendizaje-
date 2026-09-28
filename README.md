@@ -16,3 +16,4 @@ Este proyecto será utilizado para practicar:
 
 - Proyecto para aprender Git y GitHud
 - Tener mayores conocimientos
+- ferreira es tonto 
