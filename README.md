@@ -16,4 +16,5 @@ Este proyecto será utilizado para practicar:
 
 - Proyecto para aprender Git y GitHud
 - Tener mayores conocimientos
-- ferreira es tonto 
+- ferreira es tonto
+- luis alfredo es pro
