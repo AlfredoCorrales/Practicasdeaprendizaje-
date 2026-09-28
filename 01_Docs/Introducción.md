@@ -28,7 +28,7 @@ INTRODUCCIÓN
 │   └── TecnoShop es una plataforma wed donde se podran ofrecer servicios y productos tecnologicos pasa satifacer sus necesidades
 │
 ├── ¿Qué ofrece?
-│   └── Principales funciones
+│   └── Ofrecemos servicios de reparacion para dispositivos dañados y tambien vendemos productos tecnologicos como celulares, computadores, mauses, teclados, monitores, etc. ademas tenemos convenios con bancos para sus posibles consignaciones.
 │
 └── Objetivo
     └── Qué se quiere lograr
