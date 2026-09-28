@@ -25,7 +25,7 @@ INTRODUCCIÓN
 │   └── TecnoShop
 │
 ├── ¿Qué es?
-│   └── Descripción breve del proyecto
+│   └── TecnoShop es una plataforma wed donde se podran ofrecer servicios y productos tecnologicos pasa satifacer sus necesidades
 │
 ├── ¿Qué ofrece?
 │   └── Principales funciones
