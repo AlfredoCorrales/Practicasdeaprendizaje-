@@ -19,3 +19,4 @@ Este proyecto será utilizado para practicar:
 - ferreira es tonto
 - luis alfredo es pro
 - no se
+- (˶˃ ᵕ ˂˶)
