@@ -18,3 +18,4 @@ Este proyecto será utilizado para practicar:
 - Tener mayores conocimientos
 - ferreira es tonto
 - luis alfredo es pro
+- no se
